@@ -1,7 +1,7 @@
 # Lesson18
 Lesson18 OpenGL (from NeHe)
 
-Vous trouverez dans le sommaire ci-dessous dex explications sur la manière de regénérer cette application illustrant un das cas d'usage d'OpenGL : l'usage de Quadratiques
+Vous trouverez dans le sommaire ci-dessous des explications sur la manière de regénérer cette application illustrant un das cas d'usage d'OpenGL : l'usage de Quadratiques
 (issu du site NeHe).
 
 ## Table of contents
